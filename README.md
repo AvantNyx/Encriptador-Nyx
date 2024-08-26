@@ -34,7 +34,7 @@ Mi código secreto para desencriptar:
 lai saibimesdufatrai enters enterl rentersufatltaidober denterl penternsaimimesenterntober renterflenterximesvober
 ~~~
 
-## Notas adicionales
+## ★  Notas adicionales
 ```Hola! mundo``` Este es el primer proyecto que realizo sin tener ningún conocimiento previo en el área de programación y desarrollo de aplicaciones web.
 Puede contener errores en la estructura y/o diseño, por lo cual está sin perfeccionar por completo.
 
