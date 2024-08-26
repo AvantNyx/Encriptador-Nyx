@@ -20,7 +20,7 @@ Las *llaves* de encriptación son las siguientes:
 
 # ⚙ Funcionalidad
 - Funciona solo con letras minúsculas.
-- Se admite el uso de número (pero no aplica el cifrado).
+- Se admite el uso de números (pero no aplica el cifrado).
 - No se admiten palabras con acentos ni caracteres especiales.
 - Permite convertir texto a la versión encriptada y también poder devolver el texto su versión original mediante la desencriptación del mismo.
 
