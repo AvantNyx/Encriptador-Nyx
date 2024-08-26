@@ -28,11 +28,11 @@ Las *llaves* de encriptación son las siguientes:
 ![Encriptador Screenshoot](imgprev/AvantCapture.png)
 
 ## Link al encriptador y un mensaje en código de ejemplo
-[link](https://avantnyx.github.io/encriptador-nyx/)<br />
+➤  [MI ENCRIPTADOR](https://avantnyx.github.io/encriptador-nyx/)<br />
 Mi código secreto para desencriptar:
-´´´
+~~~
 lai saibimesdufatrai enters enterl rentersufatltaidober denterl penternsaimimesenterntober renterflenterximesvober
-´´´
+~~~
 
 ## Notas adicionales
 ```Hola! mundo``` Este es el primer proyecto que realizo sin tener ningún conocimiento previo en el área de programación y desarrollo de aplicaciones web.
