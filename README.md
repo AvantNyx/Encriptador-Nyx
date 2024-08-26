@@ -29,7 +29,8 @@ Las *llaves* de encriptación son las siguientes:
 
 ## Link al encriptador y un mensaje en código de ejemplo
 ➤  [MI ENCRIPTADOR](https://avantnyx.github.io/encriptador-nyx/)<br />
-Mi código secreto para desencriptar:
+
+🕵️ *Mi código secreto para desencriptar:*
 ~~~
 lai saibimesdufatrai enters enterl rentersufatltaidober denterl penternsaimimesenterntober renterflenterximesvober
 ~~~
