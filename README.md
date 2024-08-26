@@ -27,8 +27,8 @@ Las *llaves* de encriptación son las siguientes:
 # ⌞ ⌝ ‎ Captura ‎ ⌞ ⌝
 ![Encriptador Screenshoot](imgprev/AvantCapture.png)
 
-# Link al encriptador y un mensaje en código de ejemplo
-[link](https://avantnyx.github.io/encriptador-nyx/)
+## Link al encriptador y un mensaje en código de ejemplo
+[link](https://avantnyx.github.io/encriptador-nyx/)<br />
 Mi código secreto para desencriptar:
 ´´´
 lai saibimesdufatrai enters enterl rentersufatltaidober denterl penternsaimimesenterntober renterflenterximesvober
